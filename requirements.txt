@@ -1,0 +1,6 @@
+requests
+logging
+traceback
+pandas
+os
+openpyxl
